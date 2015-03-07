@@ -1,0 +1,461 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.13)  6 MAR 2015 20:33
+entering extended mode
+**Report.tex
+(C:\Users\systems\workspace\assignment2\Final_assign2\Report.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\Report.cls"
+
+LaTeX Warning: You have requested document class `Report',
+               but the document class provides `report'.
+
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count89
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count90
+\lst@currlwidth=\dimen105
+\lst@column=\count91
+\lst@pos=\count92
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count93
+\lst@lineno=\count94
+\lst@maxwidth=\dimen108
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count95
+\lst@skipnumbers=\count96
+\lst@framebox=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+(C:\Users\systems\workspace\assignment2\Final_assign2\Report.aux
+
+LaTeX Warning: Label `warc file size comparision' multiply defined.
+
+
+LaTeX Warning: Label `warc file size comparision' multiply defined.
+
+
+LaTeX Warning: Label `pywb playback' multiply defined.
+
+
+LaTeX Warning: Label `webrecorder playback' multiply defined.
+
+
+LaTeX Warning: Label `Querying SOLR' multiply defined.
+
+
+LaTeX Warning: Label `Querying SOLR' multiply defined.
+
+
+LaTeX Warning: Label `Querying SOLR' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen110
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks19
+)
+\c@lstlisting=\count103
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (31.99173pt too wide) in paragraph at lines 18--18
+\OT1/cmr/bx/n/12 ing:wget,WARCreate,Heritrix (stand-alone or via WAIL),webrecor
+der.io[] 
+ []
+
+
+Overfull \hbox (75.92119pt too wide) in paragraph at lines 21--22
+\OT1/cmr/m/n/12 ment1. In or-der to gen-er-ate WARC files in we-brecorder.io , 
+we use "https://webrecorder.io/"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+<wailinstance.png, id=7, 1264.725pt x 605.26125pt>
+File: wailinstance.png Graphic file (type png)
+ <use wailinstance.png>
+Package pdftex.def Info: wailinstance.png used on input line 53.
+(pdftex.def)             Requested size: 758.84087pt x 363.15953pt.
+
+Overfull \hbox (368.84087pt too wide) in paragraph at lines 53--54
+ [] 
+ []
+
+[1] [2 <C:/Users/systems/workspace/assignment2/Final_assign2/wailinstance.png>]
+[3] <warcsizeComparision1.png, id=18, 481.8pt x 481.8pt>
+File: warcsizeComparision1.png Graphic file (type png)
+
+<use warcsizeComparision1.png>
+Package pdftex.def Info: warcsizeComparision1.png used on input line 73.
+(pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
+ [4 <C:/Users/systems/workspace/assignment2/Final_assign2/warcsizeComparision1.
+png>]
+File: warcsizeComparision1.png Graphic file (type png)
+ <use warcsizeComparision1.png>
+Package pdftex.def Info: warcsizeComparision1.png used on input line 81.
+(pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 99--101
+
+ []
+
+
+Overfull \hbox (5.24321pt too wide) in paragraph at lines 110--111
+\OT1/cmr/m/n/12 .Also ,I have in-cluded the play-back screen shots gen-er-ated 
+us-ing we-brecorder.io
+ []
+
+[6] <pywb1.png, id=30, 2065.7175pt x 1296.845pt>
+File: pywb1.png Graphic file (type png)
+ <use pywb1.png>
+Package pdftex.def Info: pywb1.png used on input line 115.
+(pdftex.def)             Requested size: 1239.4401pt x 778.113pt.
+
+Overfull \hbox (849.4401pt too wide) in paragraph at lines 115--116
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 270.44632pt on input line 119.
+
+<pywb2.png, id=32, 2229.32875pt x 1297.84875pt>
+File: pywb2.png Graphic file (type png)
+ <use pywb2.png>
+Package pdftex.def Info: pywb2.png used on input line 123.
+(pdftex.def)             Requested size: 1337.6076pt x 778.71527pt.
+
+Overfull \hbox (947.6076pt too wide) in paragraph at lines 123--124
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 271.04858pt on input line 127.
+
+<webrecorderio-replay.png, id=33, 1264.725pt x 596.2275pt>
+File: webrecorderio-replay.png Graphic file (type png)
+
+<use webrecorderio-replay.png>
+Package pdftex.def Info: webrecorderio-replay.png used on input line 137.
+(pdftex.def)             Requested size: 758.84087pt x 357.73926pt.
+
+Overfull \hbox (368.84087pt too wide) in paragraph at lines 137--138
+ [] 
+ []
+
+<webrecorderio-playbackfile1.png, id=34, 1264.725pt x 767.86874pt>
+File: webrecorderio-playbackfile1.png Graphic file (type png)
+
+<use webrecorderio-playbackfile1.png>
+Package pdftex.def Info: webrecorderio-playbackfile1.png used on input line 145
+.
+(pdftex.def)             Requested size: 758.84087pt x 460.7248pt.
+
+Overfull \hbox (368.84087pt too wide) in paragraph at lines 145--146
+ [] 
+ []
+
+<webrecorderio-playbackfile2.png, id=35, 1264.725pt x 785.18344pt>
+File: webrecorderio-playbackfile2.png Graphic file (type png)
+
+<use webrecorderio-playbackfile2.png>
+Package pdftex.def Info: webrecorderio-playbackfile2.png used on input line 156
+.
+(pdftex.def)             Requested size: 758.84087pt x 471.11371pt.
+
+Overfull \hbox (368.84087pt too wide) in paragraph at lines 156--157
+ [] 
+ []
+
+
+Overfull \hbox (41.80833pt too wide) in paragraph at lines 172--173
+\OT1/cmr/bx/n/12 in-stance see the code + tu-to-rial at: https://github.com/ukw
+a/webarchive-
+ []
+
+
+Overfull \hbox (39.12074pt too wide) in paragraph at lines 172--173
+[] \OT1/cmr/m/n/12 I have set up SOLR in-stance us-ing the link ''https://githu
+b.com/ukwa/webarchive-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 177.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 177.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 177.
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+
+Overfull \hbox (222.7867pt too wide) in paragraph at lines 184--185
+[]\OT1/cmr/m/n/12 Downloaded warc-indexer from ''https://oss.sonatype.org/conte
+nt/repositories/snapshots/uk/bl/wa/discovery/warc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+
+Overfull \hbox (148.29303pt too wide) in paragraph at lines 193--194
+[]\OT1/cmr/m/n/12 --java -jar warc-indexer-2.0.1-SNAPSHOT-jar-with-dependencies
+.jar -s http://localhost:8080/discovery
+ []
+
+
+Overfull \hbox (91.61444pt too wide) in paragraph at lines 193--194
+\OT1/cmr/m/n/12 -t warc-indexer/src/test/resources/wikipedia-mona-lisa/flashfro
+zen-jwat-recompressed.warc.gz 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+[8] <hostname-xmlsearch.png, id=44, 1264.725pt x 767.11594pt>
+File: hostname-xmlsearch.png Graphic file (type png)
+
+<use hostname-xmlsearch.png>
+Package pdftex.def Info: hostname-xmlsearch.png used on input line 216.
+(pdftex.def)             Requested size: 758.84087pt x 460.27312pt.
+
+Overfull \hbox (368.84087pt too wide) in paragraph at lines 216--217
+ [] 
+ []
+
+<changeinhostname.png, id=45, 1264.725pt x 768.62157pt>
+File: changeinhostname.png Graphic file (type png)
+
+<use changeinhostname.png>
+Package pdftex.def Info: changeinhostname.png used on input line 229.
+(pdftex.def)             Requested size: 758.84087pt x 461.1765pt.
+
+Overfull \hbox (368.84087pt too wide) in paragraph at lines 229--230
+ [] 
+ []
+
+<noofrows.png, id=46, 1264.725pt x 773.13844pt>
+File: noofrows.png Graphic file (type png)
+ <use noofrows.png>
+Package pdftex.def Info: noofrows.png used on input line 240.
+(pdftex.def)             Requested size: 758.84087pt x 463.88666pt.
+
+Overfull \hbox (368.84087pt too wide) in paragraph at lines 240--241
+ [] 
+ []
+
+<solrchangeinhost.png, id=47, 2529.45pt x 790.45313pt>
+File: solrchangeinhost.png Graphic file (type png)
+
+<use solrchangeinhost.png>
+Package pdftex.def Info: solrchangeinhost.png used on input line 252.
+(pdftex.def)             Requested size: 1517.68173pt x 474.27553pt.
+
+Overfull \hbox (1127.68173pt too wide) in paragraph at lines 252--253
+ [] 
+ []
+
+[9 <C:/Users/systems/workspace/assignment2/Final_assign2/pywb1.png>] [10 <C:/Us
+ers/systems/workspace/assignment2/Final_assign2/pywb2.png>] [11 <C:/Users/syste
+ms/workspace/assignment2/Final_assign2/webrecorderio-replay.png>] [12 <C:/Users
+/systems/workspace/assignment2/Final_assign2/webrecorderio-playbackfile1.png>]
+[13 <C:/Users/systems/workspace/assignment2/Final_assign2/webrecorderio-playbac
+kfile2.png>] [14 <C:/Users/systems/workspace/assignment2/Final_assign2/hostname
+-xmlsearch.png>] [15 <C:/Users/systems/workspace/assignment2/Final_assign2/chan
+geinhostname.png>] [16 <C:/Users/systems/workspace/assignment2/Final_assign2/no
+ofrows.png>] [17 <C:/Users/systems/workspace/assignment2/Final_assign2/solrchan
+geinhost.png>] (C:\Users\systems\workspace\assignment2\Final_assign2\Report.aux
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2420 strings out of 493921
+ 34477 string characters out of 3147282
+ 88724 words of memory out of 3000000
+ 5731 multiletter control sequences out of 15000+200000
+ 8501 words of font info for 30 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,6n,32p,411b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Report.pdf (18 pages, 3001385 bytes).
+PDF statistics:
+ 95 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
