@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -87.65188634, 
+          41.9083695
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "John P. Glynn", 
+        "url": "http://twitter.com/JohnPGlynn/status/592147051913306112", 
+        "text": "And then? @SCBrettLyons showed me the #Blackhawks score backstage. And I quit rolling my eyes.\n#NEED #APPLEWATCH #NOW http://t.co/wKn6eOsWlN", 
+        "created_at": "Sun Apr 26 02:03:53 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/181352877/twitterpic_normal.jpg", 
+        "screen_name": "JohnPGlynn"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.95845641, 
+          40.73492282
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "daniel grippi", 
+        "url": "http://twitter.com/danielgrippi/status/592145095404756994", 
+        "text": "13.5 hrs: few phone calls, music control, 1.2 hrs exercise, turn-by-turn maps, plenty of texting &amp; glancing. / still at 36% #applewatch", 
+        "created_at": "Sun Apr 26 01:56:06 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/476887626398842880/vNpOXYWy_normal.jpeg", 
+        "screen_name": "danielgrippi"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.17263, 
+          37.443087
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Erin Pangilinan", 
+        "url": "http://twitter.com/erinjerri/status/592144597654077440", 
+        "text": "#Slack doesn't look too bad on #AppleWatch. Was starving &amp; needed to eat while #Warriors game on. No\u2026 https://t.co/Mr28TAnJHp", 
+        "created_at": "Sun Apr 26 01:54:08 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/535483270054432768/H1Yk-85E_normal.png", 
+        "screen_name": "erinjerri"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          153.40782622, 
+          -27.91145783
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Shelly Jackson", 
+        "url": "http://twitter.com/Shelly_xo/status/592143585014853633", 
+        "text": "Taking the precious for a walk #jjabrams #legitlensflare #applewatch @ Shearwater Park, Runaway Bay https://t.co/6grTLTtQLD", 
+        "created_at": "Sun Apr 26 01:50:06 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558502620101214208/yVLXMJ_i_normal.jpeg", 
+        "screen_name": "Shelly_xo"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -118.30942886, 
+          34.04200647
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Oracio Alvarado", 
+        "url": "http://twitter.com/oracio/status/592142950219419648", 
+        "text": "I can't EVEN with the #AppleWatch \ud83d\udc4e\ud83c\udffd", 
+        "created_at": "Sun Apr 26 01:47:35 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/542913394395738112/CxA8W4gh_normal.jpeg", 
+        "screen_name": "oracio"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          115.8449702, 
+          -31.9086648
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "msb", 
+        "url": "http://twitter.com/budgeco/status/592141590887407616", 
+        "text": "http://t.co/ufogcammnT #Wearables #games #AppleWatch #apple", 
+        "created_at": "Sun Apr 26 01:42:11 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/569327586409324544/Si7gneW0_normal.jpeg", 
+        "screen_name": "budgeco"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -86.78240296, 
+          36.16440081
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Chris Dancy", 
+        "url": "http://twitter.com/ServiceSphere/status/592140288203870210", 
+        "text": "\"As the #AppleWatch,itself, demonstrates,an innate,digitally enabled sixth sense in humans is only a matter of time\" https://t.co/yehlBTRAIJ", 
+        "created_at": "Sun Apr 26 01:37:00 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/586171592188755969/K68Rr3CJ_normal.jpg", 
+        "screen_name": "ServiceSphere"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -82.15935901, 
+          27.04896605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "David Ward", 
+        "url": "http://twitter.com/dawards0628/status/592139680071585792", 
+        "text": "#Twitter is so full of negativity. I just wanted to say \"thank you\" @tim_cook and the rest of the team for the #AppleWatch", 
+        "created_at": "Sun Apr 26 01:34:35 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/592140187154522112/IenFX2lS_normal.jpg", 
+        "screen_name": "dawards0628"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          151.21745368, 
+          -33.881963
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Amy T. Tuck", 
+        "url": "http://twitter.com/AmyTTuck/status/592137853200535552", 
+        "text": "Call me when @Grindr is available on #AppleWatch", 
+        "created_at": "Sun Apr 26 01:27:20 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574406056656302083/eoP3Dof-_normal.jpeg", 
+        "screen_name": "AmyTTuck"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -120.0071, 
+          38.9309
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Dave Amirault", 
+        "url": "http://twitter.com/ozskier/status/592134663843422209", 
+        "text": "Using the #AppleWatch for activity/workout tracking houses the battery.", 
+        "created_at": "Sun Apr 26 01:14:39 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/557434144381485057/XpjUAZmp_normal.jpeg", 
+        "screen_name": "ozskier"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          130.81949221, 
+          -12.45536102
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Shaun 'Bones' Boer", 
+        "url": "http://twitter.com/shauntheboer/status/592132817015869440", 
+        "text": "Massive thanks to #tntaustralia who went out of their way yesterday to get my #AppleWatch to me after a shipping error", 
+        "created_at": "Sun Apr 26 01:07:19 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/460909792018460672/2zqtQo-C_normal.jpeg", 
+        "screen_name": "shauntheboer"
+      }
+    }
+  ]
+}
