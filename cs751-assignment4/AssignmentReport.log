@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.13)  2 MAY 2015 03:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.13)  2 MAY 2015 03:46
 entering extended mode
 **AssignmentReport.tex
 (C:\cs751\cs751-assignment4\AssignmentReport.tex
@@ -152,18 +152,18 @@ LaTeX Warning: Label `Jaccard Distance Relative to First Memento' multiply defi
 ned.
 
 )
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
  ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count97
@@ -180,221 +180,221 @@ LaTeX Font Info:    ... okay on input line 7.
 )
 \c@lstlisting=\count103
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 11.
+(Font)              <14.4> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 10.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 22--26
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--26
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
 
-Overfull \hbox (68.52312pt too wide) in paragraph at lines 36--37
+Overfull \hbox (68.52312pt too wide) in paragraph at lines 35--36
 []\OT1/cmr/m/n/12 I have cre-ated two fold-ers "A3-afterboilerplateTextFiles", 
 "A4-afterboilerplatetextfiles"
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
 [1]
-Underfull \hbox (badness 10000) in paragraph at lines 38--41
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--41
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
 
-Overfull \hbox (0.53993pt too wide) in paragraph at lines 58--59
+Overfull \hbox (0.53993pt too wide) in paragraph at lines 57--58
 \OT1/cmr/m/n/12 boil-er-pipe, there is no change in the tex-tual con-tent. The 
 Jac-card distances(1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--77
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
 
  []
 
 
-Overfull \hbox (41.74274pt too wide) in paragraph at lines 84--86
+Overfull \hbox (41.74274pt too wide) in paragraph at lines 83--85
 \OT1/cmr/m/n/12 the list in json for-mat with the help of "http://labs.mementow
 eb.org/timemap/json/"
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--105
+Underfull \hbox (badness 10000) in paragraph at lines 100--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--105
+Underfull \hbox (badness 10000) in paragraph at lines 100--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--111
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
 
 [5] <unigram.png, id=23, 481.8pt x 481.8pt>
 File: unigram.png Graphic file (type png)
  <use unigram.png>
-Package pdftex.def Info: unigram.png used on input line 126.
+Package pdftex.def Info: unigram.png used on input line 125.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [6 <C:/cs751/cs751-assignment4/unigram.png>] <bigram.png, id=29, 481.8pt x 481
 .8pt>
 File: bigram.png Graphic file (type png)
 
 <use bigram.png>
-Package pdftex.def Info: bigram.png used on input line 136.
+Package pdftex.def Info: bigram.png used on input line 135.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [7 <C:/cs751/cs751-assignment4/bigram.png>]
 <trigram.png, id=34, 481.8pt x 481.8pt>
 File: trigram.png Graphic file (type png)
  <use trigram.png>
-Package pdftex.def Info: trigram.png used on input line 146.
+Package pdftex.def Info: trigram.png used on input line 145.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [8 <C:/cs751/cs751-assignment4/trigram.png>] <NumberOfMementoS.png, id=39, 754
 .82pt x 536.0025pt>
 File: NumberOfMementoS.png Graphic file (type png)
 
 <use NumberOfMementoS.png>
-Package pdftex.def Info: NumberOfMementoS.png used on input line 155.
+Package pdftex.def Info: NumberOfMementoS.png used on input line 154.
 (pdftex.def)             Requested size: 452.89551pt x 321.60397pt.
 
-Overfull \hbox (62.89551pt too wide) in paragraph at lines 155--156
+Overfull \hbox (62.89551pt too wide) in paragraph at lines 154--155
  [] 
  []
 
@@ -402,228 +402,229 @@ Overfull \hbox (62.89551pt too wide) in paragraph at lines 155--156
 <link1.png, id=44, 481.8pt x 481.8pt>
 File: link1.png Graphic file (type png)
  <use link1.png>
-Package pdftex.def Info: link1.png used on input line 165.
+Package pdftex.def Info: link1.png used on input line 164.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [10 <C:/cs751/cs751-assignment4/link1.png>] <link2.png, id=49, 481.8pt x 481.8
 pt>
 File: link2.png Graphic file (type png)
  <use link2.png>
-Package pdftex.def Info: link2.png used on input line 175.
+Package pdftex.def Info: link2.png used on input line 174.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
 
 [11 <C:/cs751/cs751-assignment4/link2.png>]
 <link3.png, id=54, 481.8pt x 481.8pt>
 File: link3.png Graphic file (type png)
  <use link3.png>
-Package pdftex.def Info: link3.png used on input line 184.
+Package pdftex.def Info: link3.png used on input line 183.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [12 <C:/cs751/cs751-assignment4/link3.png>] <link4.png, id=60, 481.8pt x 481.8
 pt>
 File: link4.png Graphic file (type png)
  <use link4.png>
-Package pdftex.def Info: link4.png used on input line 194.
+Package pdftex.def Info: link4.png used on input line 193.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
 
 [13 <C:/cs751/cs751-assignment4/link4.png>]
 <link5.png, id=65, 481.8pt x 481.8pt>
 File: link5.png Graphic file (type png)
  <use link5.png>
-Package pdftex.def Info: link5.png used on input line 204.
+Package pdftex.def Info: link5.png used on input line 203.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [14 <C:/cs751/cs751-assignment4/link5.png>] <link6.png, id=70, 481.8pt x 481.8
 pt>
 File: link6.png Graphic file (type png)
  <use link6.png>
-Package pdftex.def Info: link6.png used on input line 214.
+Package pdftex.def Info: link6.png used on input line 213.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
 
 [15 <C:/cs751/cs751-assignment4/link6.png>]
 <link7.png, id=75, 481.8pt x 481.8pt>
 File: link7.png Graphic file (type png)
  <use link7.png>
-Package pdftex.def Info: link7.png used on input line 223.
+Package pdftex.def Info: link7.png used on input line 222.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [16 <C:/cs751/cs751-assignment4/link7.png>] <link8.png, id=80, 481.8pt x 481.8
 pt>
 File: link8.png Graphic file (type png)
  <use link8.png>
-Package pdftex.def Info: link8.png used on input line 233.
+Package pdftex.def Info: link8.png used on input line 232.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
 
 [17 <C:/cs751/cs751-assignment4/link8.png>]
 <link10.png, id=85, 481.8pt x 481.8pt>
 File: link10.png Graphic file (type png)
  <use link10.png>
-Package pdftex.def Info: link10.png used on input line 242.
+Package pdftex.def Info: link10.png used on input line 241.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [18 <C:/cs751/cs751-assignment4/link10.png>] <link11.png, id=91, 481.8pt x 481
 .8pt>
 File: link11.png Graphic file (type png)
  <use link11.png>
-Package pdftex.def Info: link11.png used on input line 251.
+Package pdftex.def Info: link11.png used on input line 250.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
 
 [19 <C:/cs751/cs751-assignment4/link11.png>]
 <link14.png, id=96, 481.8pt x 481.8pt>
 File: link14.png Graphic file (type png)
  <use link14.png>
-Package pdftex.def Info: link14.png used on input line 260.
+Package pdftex.def Info: link14.png used on input line 259.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [20 <C:/cs751/cs751-assignment4/link14.png>] <link15.png, id=101, 481.8pt x 48
 1.8pt>
 File: link15.png Graphic file (type png)
  <use link15.png>
-Package pdftex.def Info: link15.png used on input line 270.
+Package pdftex.def Info: link15.png used on input line 269.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
 
 [21 <C:/cs751/cs751-assignment4/link15.png>]
 <link16.png, id=106, 481.8pt x 481.8pt>
 File: link16.png Graphic file (type png)
  <use link16.png>
-Package pdftex.def Info: link16.png used on input line 279.
+Package pdftex.def Info: link16.png used on input line 278.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [22 <C:/cs751/cs751-assignment4/link16.png>] <link18.png, id=111, 481.8pt x 48
 1.8pt>
 File: link18.png Graphic file (type png)
 
 <use link18.png>
-Package pdftex.def Info: link18.png used on input line 288.
+Package pdftex.def Info: link18.png used on input line 287.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
  [23 <C:/cs751/cs751-assignment4/link18.png>]
 <word25th.png, id=116, 709.14937pt x 651.93562pt>
 File: word25th.png Graphic file (type png)
  <use word25th.png>
-Package pdftex.def Info: word25th.png used on input line 298.
+Package pdftex.def Info: word25th.png used on input line 297.
 (pdftex.def)             Requested size: 425.4929pt x 391.16438pt.
 
-Overfull \hbox (35.4929pt too wide) in paragraph at lines 298--299
+Overfull \hbox (35.4929pt too wide) in paragraph at lines 297--298
  [] 
  []
 
 <word26th.png, id=118, 557.08125pt x 606.01407pt>
 File: word26th.png Graphic file (type png)
  <use word26th.png>
-Package pdftex.def Info: word26th.png used on input line 307.
+Package pdftex.def Info: word26th.png used on input line 306.
 (pdftex.def)             Requested size: 334.25133pt x 363.61125pt.
 
 <word27th.png, id=119, 546.54187pt x 593.96906pt>
 File: word27th.png Graphic file (type png)
  <use word27th.png>
-Package pdftex.def Info: word27th.png used on input line 315.
+Package pdftex.def Info: word27th.png used on input line 314.
 (pdftex.def)             Requested size: 327.92764pt x 356.38419pt.
 
 <word28th.png, id=120, 553.31718pt x 620.3175pt>
 File: word28th.png Graphic file (type png)
  <use word28th.png>
-Package pdftex.def Info: word28th.png used on input line 323.
+Package pdftex.def Info: word28th.png used on input line 322.
 (pdftex.def)             Requested size: 331.99286pt x 372.19337pt.
 
 <word30th.png, id=121, 578.91281pt x 617.30624pt>
 File: word30th.png Graphic file (type png)
  <use word30th.png>
-Package pdftex.def Info: word30th.png used on input line 332.
+Package pdftex.def Info: word30th.png used on input line 331.
 (pdftex.def)             Requested size: 347.35036pt x 370.3866pt.
 
 <geojson25th.png, id=122, 712.16063pt x 520.94624pt>
 File: geojson25th.png Graphic file (type png)
  <use geojson25th.png>
-Package pdftex.def Info: geojson25th.png used on input line 340.
+Package pdftex.def Info: geojson25th.png used on input line 339.
 (pdftex.def)             Requested size: 427.29967pt x 312.57016pt.
 
-Overfull \hbox (37.29967pt too wide) in paragraph at lines 340--341
+Overfull \hbox (37.29967pt too wide) in paragraph at lines 339--340
  [] 
  []
 
 <geojson26th.png, id=123, 691.08188pt x 523.9575pt>
 File: geojson26th.png Graphic file (type png)
  <use geojson26th.png>
-Package pdftex.def Info: geojson26th.png used on input line 348.
+Package pdftex.def Info: geojson26th.png used on input line 347.
 (pdftex.def)             Requested size: 414.65233pt x 314.37692pt.
 
-Overfull \hbox (24.65233pt too wide) in paragraph at lines 348--349
+Overfull \hbox (24.65233pt too wide) in paragraph at lines 347--348
  [] 
  []
 
 <geojson27th.png, id=124, 700.11563pt x 508.90125pt>
 File: geojson27th.png Graphic file (type png)
  <use geojson27th.png>
-Package pdftex.def Info: geojson27th.png used on input line 357.
+Package pdftex.def Info: geojson27th.png used on input line 356.
 (pdftex.def)             Requested size: 420.07262pt x 305.34311pt.
 
-Overfull \hbox (30.07262pt too wide) in paragraph at lines 357--358
+Overfull \hbox (30.07262pt too wide) in paragraph at lines 356--357
  [] 
  []
 
 <geojson28th.png, id=125, 700.86844pt x 516.42938pt>
 File: geojson28th.png Graphic file (type png)
  <use geojson28th.png>
-Package pdftex.def Info: geojson28th.png used on input line 365.
+Package pdftex.def Info: geojson28th.png used on input line 364.
 (pdftex.def)             Requested size: 420.5243pt x 309.86002pt.
 
-Overfull \hbox (30.5243pt too wide) in paragraph at lines 365--366
+Overfull \hbox (30.5243pt too wide) in paragraph at lines 364--365
  [] 
  []
 
 <geojson30th.png, id=126, 703.12688pt x 511.9125pt>
 File: geojson30th.png Graphic file (type png)
  <use geojson30th.png>
-Package pdftex.def Info: geojson30th.png used on input line 373.
+Package pdftex.def Info: geojson30th.png used on input line 372.
 (pdftex.def)             Requested size: 421.87938pt x 307.14987pt.
 
-Overfull \hbox (31.87938pt too wide) in paragraph at lines 373--374
+Overfull \hbox (31.87938pt too wide) in paragraph at lines 372--373
  [] 
  []
 
 <wall25th.png, id=127, 1243.64626pt x 750.55406pt>
 File: wall25th.png Graphic file (type png)
  <use wall25th.png>
-Package pdftex.def Info: wall25th.png used on input line 381.
+Package pdftex.def Info: wall25th.png used on input line 380.
 (pdftex.def)             Requested size: 746.19351pt x 450.3359pt.
 
-Overfull \hbox (356.19351pt too wide) in paragraph at lines 381--382
+Overfull \hbox (356.19351pt too wide) in paragraph at lines 380--381
  [] 
  []
 
 <wall26th.png, id=128, 1257.19687pt x 768.62157pt>
 File: wall26th.png Graphic file (type png)
  <use wall26th.png>
-Package pdftex.def Info: wall26th.png used on input line 390.
+Package pdftex.def Info: wall26th.png used on input line 389.
 (pdftex.def)             Requested size: 754.32394pt x 461.1765pt.
 
-Overfull \hbox (364.32394pt too wide) in paragraph at lines 390--391
+Overfull \hbox (364.32394pt too wide) in paragraph at lines 389--390
  [] 
  []
 
 <wall27th.png, id=129, 1263.21938pt x 753.5653pt>
 File: wall27th.png Graphic file (type png)
  <use wall27th.png>
-Package pdftex.def Info: wall27th.png used on input line 403.
+Package pdftex.def Info: wall27th.png used on input line 402.
 (pdftex.def)             Requested size: 757.93748pt x 452.14267pt.
 
-Overfull \hbox (367.93748pt too wide) in paragraph at lines 403--404
+Overfull \hbox (367.93748pt too wide) in paragraph at lines 402--403
  [] 
  []
 
 <wall28th.png, id=130, 1258.7025pt x 751.30687pt>
 File: wall28th.png Graphic file (type png)
  <use wall28th.png>
-Package pdftex.def Info: wall28th.png used on input line 413.
+Package pdftex.def Info: wall28th.png used on input line 412.
 (pdftex.def)             Requested size: 755.22734pt x 450.7876pt.
 
-Overfull \hbox (365.22734pt too wide) in paragraph at lines 413--414
+Overfull \hbox (365.22734pt too wide) in paragraph at lines 412--413
  [] 
  []
 
 <wall30th.png, id=131, 1258.7025pt x 755.82375pt>
 File: wall30th.png Graphic file (type png)
  <use wall30th.png>
-Package pdftex.def Info: wall30th.png used on input line 423.
+Package pdftex.def Info: wall30th.png used on input line 422.
 (pdftex.def)             Requested size: 755.22734pt x 453.49774pt.
 
-Overfull \hbox (365.22734pt too wide) in paragraph at lines 423--424
+Overfull \hbox (365.22734pt too wide) in paragraph at lines 422--423
  [] 
  []
 
+No file AssignmentReport.bbl.
 [24 <C:/cs751/cs751-assignment4/word25th.png>] [25 <C:/cs751/cs751-assignment4/
 word26th.png>] [26 <C:/cs751/cs751-assignment4/word27th.png>] [27 <C:/cs751/cs7
 51-assignment4/word28th.png>] [28 <C:/cs751/cs751-assignment4/word30th.png>]
@@ -639,9 +640,9 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2529 strings out of 493921
- 36257 string characters out of 3147282
- 89795 words of memory out of 3000000
+ 2530 strings out of 493921
+ 36261 string characters out of 3147282
+ 89871 words of memory out of 3000000
  5823 multiletter control sequences out of 15000+200000
  6063 words of font info for 22 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -649,7 +650,7 @@ Here is how much of TeX's memory you used:
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on AssignmentReport.pdf (39 pages, 2017630 bytes).
+Output written on AssignmentReport.pdf (39 pages, 2017631 bytes).
 PDF statistics:
  208 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
