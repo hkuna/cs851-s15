@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.13)  2 MAY 2015 04:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.13)  2 MAY 2015 04:39
 entering extended mode
 **AssignmentReport.tex
-(C:\cs751\cs751-assignment4\AssignmentReport.tex
+(C:\Users\hkuna\Documents\cs851-s15\cs751-assignment4\AssignmentReport.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -98,7 +98,7 @@ Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks17
 \verbatim@in@stream=\read1
 )
-(C:\cs751\cs751-assignment4\AssignmentReport.aux
+(C:\Users\hkuna\Documents\cs851-s15\cs751-assignment4\AssignmentReport.aux
 
 LaTeX Warning: Label `Jaccard Distance Relative to First Memento' multiply defi
 ned.
@@ -373,21 +373,20 @@ File: unigram.png Graphic file (type png)
  <use unigram.png>
 Package pdftex.def Info: unigram.png used on input line 125.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [6 <C:/cs751/cs751-assignment4/unigram.png>] <bigram.png, id=29, 481.8pt x 481
-.8pt>
+ [6 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/unigram.png>]
+<bigram.png, id=29, 481.8pt x 481.8pt>
 File: bigram.png Graphic file (type png)
-
-<use bigram.png>
+ <use bigram.png>
 Package pdftex.def Info: bigram.png used on input line 135.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [7 <C:/cs751/cs751-assignment4/bigram.png>]
+ [7 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/bigram.png>]
 <trigram.png, id=34, 481.8pt x 481.8pt>
 File: trigram.png Graphic file (type png)
  <use trigram.png>
 Package pdftex.def Info: trigram.png used on input line 145.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [8 <C:/cs751/cs751-assignment4/trigram.png>] <NumberOfMementoS.png, id=39, 754
-.82pt x 536.0025pt>
+ [8 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/trigram.png>]
+<NumberOfMementoS.png, id=39, 754.82pt x 536.0025pt>
 File: NumberOfMementoS.png Graphic file (type png)
 
 <use NumberOfMementoS.png>
@@ -398,98 +397,91 @@ Overfull \hbox (62.89551pt too wide) in paragraph at lines 154--155
  [] 
  []
 
-[9 <C:/cs751/cs751-assignment4/NumberOfMementoS.png>]
+[9 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/NumberOfMementoS.png>]
 <link1.png, id=44, 481.8pt x 481.8pt>
 File: link1.png Graphic file (type png)
  <use link1.png>
 Package pdftex.def Info: link1.png used on input line 164.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [10 <C:/cs751/cs751-assignment4/link1.png>] <link2.png, id=49, 481.8pt x 481.8
-pt>
+ [10 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link1.png>]
+<link2.png, id=49, 481.8pt x 481.8pt>
 File: link2.png Graphic file (type png)
  <use link2.png>
 Package pdftex.def Info: link2.png used on input line 174.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
-
-[11 <C:/cs751/cs751-assignment4/link2.png>]
+ [11 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link2.png>]
 <link3.png, id=54, 481.8pt x 481.8pt>
 File: link3.png Graphic file (type png)
  <use link3.png>
 Package pdftex.def Info: link3.png used on input line 183.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [12 <C:/cs751/cs751-assignment4/link3.png>] <link4.png, id=60, 481.8pt x 481.8
-pt>
+ [12 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link3.png>]
+<link4.png, id=60, 481.8pt x 481.8pt>
 File: link4.png Graphic file (type png)
  <use link4.png>
 Package pdftex.def Info: link4.png used on input line 193.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
-
-[13 <C:/cs751/cs751-assignment4/link4.png>]
+ [13 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link4.png>]
 <link5.png, id=65, 481.8pt x 481.8pt>
 File: link5.png Graphic file (type png)
  <use link5.png>
 Package pdftex.def Info: link5.png used on input line 203.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [14 <C:/cs751/cs751-assignment4/link5.png>] <link6.png, id=70, 481.8pt x 481.8
-pt>
+ [14 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link5.png>]
+<link6.png, id=70, 481.8pt x 481.8pt>
 File: link6.png Graphic file (type png)
  <use link6.png>
 Package pdftex.def Info: link6.png used on input line 213.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
-
-[15 <C:/cs751/cs751-assignment4/link6.png>]
+ [15 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link6.png>]
 <link7.png, id=75, 481.8pt x 481.8pt>
 File: link7.png Graphic file (type png)
  <use link7.png>
 Package pdftex.def Info: link7.png used on input line 222.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [16 <C:/cs751/cs751-assignment4/link7.png>] <link8.png, id=80, 481.8pt x 481.8
-pt>
+ [16 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link7.png>]
+<link8.png, id=80, 481.8pt x 481.8pt>
 File: link8.png Graphic file (type png)
  <use link8.png>
 Package pdftex.def Info: link8.png used on input line 232.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
-
-[17 <C:/cs751/cs751-assignment4/link8.png>]
+ [17 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link8.png>]
 <link10.png, id=85, 481.8pt x 481.8pt>
 File: link10.png Graphic file (type png)
  <use link10.png>
 Package pdftex.def Info: link10.png used on input line 241.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [18 <C:/cs751/cs751-assignment4/link10.png>] <link11.png, id=91, 481.8pt x 481
-.8pt>
+ [18 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link10.png>]
+<link11.png, id=91, 481.8pt x 481.8pt>
 File: link11.png Graphic file (type png)
  <use link11.png>
 Package pdftex.def Info: link11.png used on input line 250.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
-
-[19 <C:/cs751/cs751-assignment4/link11.png>]
+ [19 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link11.png>]
 <link14.png, id=96, 481.8pt x 481.8pt>
 File: link14.png Graphic file (type png)
  <use link14.png>
 Package pdftex.def Info: link14.png used on input line 259.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [20 <C:/cs751/cs751-assignment4/link14.png>] <link15.png, id=101, 481.8pt x 48
-1.8pt>
+ [20 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link14.png>]
+<link15.png, id=101, 481.8pt x 481.8pt>
 File: link15.png Graphic file (type png)
  <use link15.png>
 Package pdftex.def Info: link15.png used on input line 269.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
-
-[21 <C:/cs751/cs751-assignment4/link15.png>]
+ [21 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link15.png>]
 <link16.png, id=106, 481.8pt x 481.8pt>
 File: link16.png Graphic file (type png)
  <use link16.png>
 Package pdftex.def Info: link16.png used on input line 278.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [22 <C:/cs751/cs751-assignment4/link16.png>] <link18.png, id=111, 481.8pt x 48
-1.8pt>
+ [22 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link16.png>]
+<link18.png, id=111, 481.8pt x 481.8pt>
 File: link18.png Graphic file (type png)
-
-<use link18.png>
+ <use link18.png>
 Package pdftex.def Info: link18.png used on input line 287.
 (pdftex.def)             Requested size: 289.08221pt x 289.08221pt.
- [23 <C:/cs751/cs751-assignment4/link18.png>]
+ [23 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/link18.png>]
 <word25th.png, id=116, 709.14937pt x 651.93562pt>
 File: word25th.png Graphic file (type png)
  <use word25th.png>
@@ -625,25 +617,31 @@ Overfull \hbox (365.22734pt too wide) in paragraph at lines 422--423
  []
 
 No file AssignmentReport.bbl.
-[24 <C:/cs751/cs751-assignment4/word25th.png>] [25 <C:/cs751/cs751-assignment4/
-word26th.png>] [26 <C:/cs751/cs751-assignment4/word27th.png>] [27 <C:/cs751/cs7
-51-assignment4/word28th.png>] [28 <C:/cs751/cs751-assignment4/word30th.png>]
-[29 <C:/cs751/cs751-assignment4/geojson25th.png>] [30 <C:/cs751/cs751-assignmen
-t4/geojson26th.png>] [31 <C:/cs751/cs751-assignment4/geojson27th.png>] [32 <C:/
-cs751/cs751-assignment4/geojson28th.png>] [33 <C:/cs751/cs751-assignment4/geojs
-on30th.png>] [34 <C:/cs751/cs751-assignment4/wall25th.png>] [35 <C:/cs751/cs751
--assignment4/wall26th.png>] [36 <C:/cs751/cs751-assignment4/wall27th.png>]
-[37 <C:/cs751/cs751-assignment4/wall28th.png>] [38 <C:/cs751/cs751-assignment4/
-wall30th.png>] (C:\cs751\cs751-assignment4\AssignmentReport.aux)
+[24 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/word25th.png>]
+[25 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/word26th.png>]
+[26 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/word27th.png>]
+[27 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/word28th.png>]
+[28 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/word30th.png>]
+[29 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/geojson25th.png>]
+[30 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/geojson26th.png>]
+[31 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/geojson27th.png>]
+[32 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/geojson28th.png>]
+[33 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/geojson30th.png>]
+[34 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/wall25th.png>]
+[35 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/wall26th.png>]
+[36 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/wall27th.png>]
+[37 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/wall28th.png>]
+[38 <C:/Users/hkuna/Documents/cs851-s15/cs751-assignment4/wall30th.png>]
+(C:\Users\hkuna\Documents\cs851-s15\cs751-assignment4\AssignmentReport.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2531 strings out of 493921
- 36313 string characters out of 3147282
+ 2530 strings out of 493921
+ 36444 string characters out of 3147282
  89871 words of memory out of 3000000
- 5824 multiletter control sequences out of 15000+200000
+ 5823 multiletter control sequences out of 15000+200000
  6063 words of font info for 22 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,6n,32p,583b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
