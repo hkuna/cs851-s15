@@ -1,0 +1,5 @@
+<http://www.pou.me>;rel="original",
+ <http://archive.is/20121106014458/http://www.pou.me/>;rel="memento"; datetime="Tue, 06 Nov 2012 01:44:58 GMT",
+ <http://archive.is/20130508165856/http://www.pou.me/>;rel="memento"; datetime="Wed, 08 May 2013 16:58:56 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://www.pou.me>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.pou.me>;rel="self"; type="application/link-format"; from ="Tue, 06 Nov 2012 01:44:58 GMT";until="Wed, 08 May 2013 16:58:56 GMT"

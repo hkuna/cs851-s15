@@ -1,0 +1,6 @@
+<http://www.weather.com/weather/today/27109>;rel="original",
+ <http://web.archive.org/web/20120421050541/http://www.weather.com/weather/today/27109>;rel="memento"; datetime="Sat, 21 Apr 2012 05:05:41 GMT",
+ <http://web.archive.org/web/20130128220029/http://www.weather.com/weather/today/27109>;rel="memento"; datetime="Mon, 28 Jan 2013 22:00:29 GMT",
+ <http://web.archive.org/web/20130617171114/http://www.weather.com/weather/today/27109>;rel="memento"; datetime="Mon, 17 Jun 2013 17:11:14 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://www.weather.com/weather/today/27109>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.weather.com/weather/today/27109>;rel="self"; type="application/link-format"; from ="Sat, 21 Apr 2012 05:05:41 GMT";until="Mon, 17 Jun 2013 17:11:14 GMT"

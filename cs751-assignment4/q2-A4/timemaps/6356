@@ -1,0 +1,4 @@
+<http://www.weather.com/weather/today/26268>;rel="original",
+ <http://web.archive.org/web/20110124042656/http://www.weather.com/weather/today/26268>;rel="memento"; datetime="Mon, 24 Jan 2011 04:26:56 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://www.weather.com/weather/today/26268>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.weather.com/weather/today/26268>;rel="self"; type="application/link-format"; from ="Mon, 24 Jan 2011 04:26:56 GMT";until="Mon, 24 Jan 2011 04:26:56 GMT"

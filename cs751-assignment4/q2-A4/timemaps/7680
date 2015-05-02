@@ -1,0 +1,4 @@
+<http://www.twitch.tv/xbox>;rel="original",
+ <http://archive.is/20140310191328/http://www.twitch.tv/xbox>;rel="memento"; datetime="Mon, 10 Mar 2014 19:13:28 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://www.twitch.tv/xbox>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.twitch.tv/xbox>;rel="self"; type="application/link-format"; from ="Mon, 10 Mar 2014 19:13:28 GMT";until="Mon, 10 Mar 2014 19:13:28 GMT"

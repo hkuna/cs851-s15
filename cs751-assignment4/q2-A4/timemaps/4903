@@ -1,0 +1,7 @@
+<http://pc.194964.com/>;rel="original",
+ <http://timetravel.mementoweb.org/timegate/http://pc.194964.com/>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://pc.194964.com/>;rel="timemap"; type="application/link-format"; from ="Tue, 20 Oct 2009 02:24:43 GMT";until="Fri, 15 Nov 2013 17:06:05 GMT",
+ <http://labs.mementoweb.org/timemap/link/1000/http://pc.194964.com/>;rel="timemap"; type="application/link-format"; from ="Fri, 15 Nov 2013 17:17:29 GMT";until="Fri, 13 Jun 2014 17:12:56 GMT",
+ <http://labs.mementoweb.org/timemap/link/2000/http://pc.194964.com/>;rel="timemap"; type="application/link-format"; from ="Sat, 14 Jun 2014 16:55:55 GMT";until="Fri, 27 Feb 2015 17:57:38 GMT",
+ <http://labs.mementoweb.org/timemap/link/3000/http://pc.194964.com/>;rel="timemap"; type="application/link-format"; from ="Fri, 27 Feb 2015 18:26:31 GMT",
+ <http://labs.mementoweb.org/timemap/link/http://pc.194964.com/>;rel="self"; type="application/link-format"; from ="Tue, 20 Oct 2009 02:24:43 GMT"

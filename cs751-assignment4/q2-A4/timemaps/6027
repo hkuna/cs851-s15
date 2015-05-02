@@ -1,0 +1,4 @@
+<http://www.weather.com/weather/today/48410>;rel="original",
+ <http://web.archive.org/web/20110123115740/http://www.weather.com/weather/today/48410>;rel="memento"; datetime="Sun, 23 Jan 2011 11:57:40 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://www.weather.com/weather/today/48410>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.weather.com/weather/today/48410>;rel="self"; type="application/link-format"; from ="Sun, 23 Jan 2011 11:57:40 GMT";until="Sun, 23 Jan 2011 11:57:40 GMT"

@@ -1,0 +1,6 @@
+<http://visionauto.com.ar>;rel="original",
+ <http://archive.is/20110901155158/http://visionauto.com.ar/>;rel="memento"; datetime="Thu, 01 Sep 2011 15:51:58 GMT",
+ <http://archive.is/20120703021913/http://visionauto.com.ar/>;rel="memento"; datetime="Tue, 03 Jul 2012 02:19:13 GMT",
+ <http://archive.is/20150415151449/http://visionauto.com.ar/>;rel="memento"; datetime="Wed, 15 Apr 2015 15:14:49 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://visionauto.com.ar>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://visionauto.com.ar>;rel="self"; type="application/link-format"; from ="Thu, 01 Sep 2011 15:51:58 GMT";until="Wed, 15 Apr 2015 15:14:49 GMT"

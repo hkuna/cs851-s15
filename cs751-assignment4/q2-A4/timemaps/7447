@@ -1,0 +1,7 @@
+<http://www.republika.co.id/>;rel="original",
+ <http://timetravel.mementoweb.org/timegate/http://www.republika.co.id/>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.republika.co.id/>;rel="timemap"; type="application/link-format"; from ="Wed, 13 Nov 1996 23:10:57 GMT";until="Tue, 06 Jul 2010 11:14:27 GMT",
+ <http://labs.mementoweb.org/timemap/link/1000/http://www.republika.co.id/>;rel="timemap"; type="application/link-format"; from ="Wed, 07 Jul 2010 06:23:27 GMT";until="Mon, 23 Apr 2012 05:39:04 GMT",
+ <http://labs.mementoweb.org/timemap/link/2000/http://www.republika.co.id/>;rel="timemap"; type="application/link-format"; from ="Mon, 23 Apr 2012 10:48:32 GMT";until="Thu, 28 Mar 2013 16:57:18 GMT",
+ <http://labs.mementoweb.org/timemap/link/3000/http://www.republika.co.id/>;rel="timemap"; type="application/link-format"; from ="Thu, 28 Mar 2013 20:17:25 GMT",
+ <http://labs.mementoweb.org/timemap/link/http://www.republika.co.id/>;rel="self"; type="application/link-format"; from ="Wed, 13 Nov 1996 23:10:57 GMT"

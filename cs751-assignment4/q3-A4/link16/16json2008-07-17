@@ -1,0 +1,1 @@
+Answer: RSI is a a technical momentum indicator that compares the magnitude of recent gains to recent losses. The goal is to determine if an asset is oversold or underbought. It is calculated using the following formula: RSI = 100 - (100/1+RS) where RS is the average of x days' up closes / Average of x days' down closes.

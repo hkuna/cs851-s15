@@ -1,0 +1,4 @@
+<http://eBooksHabit.com>;rel="original",
+ <http://archive.is/20130508181336/http://ebookshabit.com/>;rel="memento"; datetime="Wed, 08 May 2013 18:13:36 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://eBooksHabit.com>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://eBooksHabit.com>;rel="self"; type="application/link-format"; from ="Wed, 08 May 2013 18:13:36 GMT";until="Wed, 08 May 2013 18:13:36 GMT"

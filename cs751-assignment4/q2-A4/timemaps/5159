@@ -1,0 +1,5 @@
+<http://www.weather.com/weather/today/48622>;rel="original",
+ <http://web.archive.org/web/20110123120736/http://www.weather.com/weather/today/48622>;rel="memento"; datetime="Sun, 23 Jan 2011 12:07:36 GMT",
+ <http://web.archive.org/web/20110419030139/http://www.weather.com/weather/today/48622>;rel="memento"; datetime="Tue, 19 Apr 2011 03:01:39 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://www.weather.com/weather/today/48622>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.weather.com/weather/today/48622>;rel="self"; type="application/link-format"; from ="Sun, 23 Jan 2011 12:07:36 GMT";until="Tue, 19 Apr 2011 03:01:39 GMT"

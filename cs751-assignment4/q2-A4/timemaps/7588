@@ -1,0 +1,5 @@
+<http://www.amazon.com/dp/B00NY1XW48>;rel="original",
+ <http://web.archive.org/web/20150110211609/http://www.amazon.com/dp/B00NY1XW48>;rel="memento"; datetime="Sat, 10 Jan 2015 21:16:09 GMT",
+ <http://web.archive.org/web/20150120155915/http://www.amazon.com/dp/B00NY1XW48>;rel="memento"; datetime="Tue, 20 Jan 2015 15:59:15 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://www.amazon.com/dp/B00NY1XW48>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.amazon.com/dp/B00NY1XW48>;rel="self"; type="application/link-format"; from ="Sat, 10 Jan 2015 21:16:09 GMT";until="Tue, 20 Jan 2015 15:59:15 GMT"

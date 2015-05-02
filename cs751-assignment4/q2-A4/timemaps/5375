@@ -1,0 +1,8 @@
+<http://www.weather.com/weather/today/05477>;rel="original",
+ <http://web.archive.org/web/20110124212325/http://www.weather.com/weather/today/05477>;rel="memento"; datetime="Mon, 24 Jan 2011 21:23:25 GMT",
+ <http://web.archive.org/web/20110722183828/http://www.weather.com/weather/today/05477>;rel="memento"; datetime="Fri, 22 Jul 2011 18:38:28 GMT",
+ <http://web.archive.org/web/20110829093939/http://www.weather.com/weather/today/05477>;rel="memento"; datetime="Mon, 29 Aug 2011 09:39:39 GMT",
+ <http://web.archive.org/web/20130425090534/http://www.weather.com/weather/today/05477>;rel="memento"; datetime="Thu, 25 Apr 2013 09:05:34 GMT",
+ <http://web.archive.org/web/20130726010842/http://www.weather.com/weather/today/05477>;rel="memento"; datetime="Fri, 26 Jul 2013 01:08:42 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://www.weather.com/weather/today/05477>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.weather.com/weather/today/05477>;rel="self"; type="application/link-format"; from ="Mon, 24 Jan 2011 21:23:25 GMT";until="Fri, 26 Jul 2013 01:08:42 GMT"

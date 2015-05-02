@@ -1,0 +1,5 @@
+<http://www.7snah.info/>;rel="original",
+ <http://archive.is/20150109234831/http://www.7snah.info/>;rel="memento"; datetime="Fri, 09 Jan 2015 23:48:31 GMT",
+ <http://archive.is/20150110000045/http://www.7snah.info/>;rel="memento"; datetime="Sat, 10 Jan 2015 00:00:45 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://www.7snah.info/>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.7snah.info/>;rel="self"; type="application/link-format"; from ="Fri, 09 Jan 2015 23:48:31 GMT";until="Sat, 10 Jan 2015 00:00:45 GMT"

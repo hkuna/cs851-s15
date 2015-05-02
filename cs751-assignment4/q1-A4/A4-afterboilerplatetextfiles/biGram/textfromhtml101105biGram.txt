@@ -1,0 +1,14 @@
+Fatal error:
+error: Cannot
+Cannot use
+use object
+object of
+of type
+type __PHP_Incomplete_Class
+__PHP_Incomplete_Class as
+as array
+array in
+in /home/content/p3pnexwpnas04_data02/38/2312238/html/wp-content/plugins/google-analytics-dashboard-for-wp/tools/gapi.php
+/home/content/p3pnexwpnas04_data02/38/2312238/html/wp-content/plugins/google-analytics-dashboard-for-wp/tools/gapi.php on
+on line
+line 627

@@ -1,0 +1,6 @@
+<http://promodesk.t15.org>;rel="original",
+ <http://web.archive.org/web/20150109093156/http://promodesk.t15.org/>;rel="memento"; datetime="Fri, 09 Jan 2015 09:31:56 GMT",
+ <http://web.archive.org/web/20150110112144/http://promodesk.t15.org/>;rel="memento"; datetime="Sat, 10 Jan 2015 11:21:44 GMT",
+ <http://web.archive.org/web/20150110185848/http://promodesk.t15.org/>;rel="memento"; datetime="Sat, 10 Jan 2015 18:58:48 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://promodesk.t15.org>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://promodesk.t15.org>;rel="self"; type="application/link-format"; from ="Fri, 09 Jan 2015 09:31:56 GMT";until="Sat, 10 Jan 2015 18:58:48 GMT"

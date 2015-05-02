@@ -1,0 +1,6 @@
+<http://www.weather.com/weather/today/26037>;rel="original",
+ <http://web.archive.org/web/20110124043101/http://www.weather.com/weather/today/26037>;rel="memento"; datetime="Mon, 24 Jan 2011 04:31:01 GMT",
+ <http://web.archive.org/web/20120227060440/http://www.weather.com/weather/today/26037>;rel="memento"; datetime="Mon, 27 Feb 2012 06:04:40 GMT",
+ <http://web.archive.org/web/20120528173829/http://www.weather.com/weather/today/26037>;rel="memento"; datetime="Mon, 28 May 2012 17:38:29 GMT",
+ <http://timetravel.mementoweb.org/timegate/http://www.weather.com/weather/today/26037>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.weather.com/weather/today/26037>;rel="self"; type="application/link-format"; from ="Mon, 24 Jan 2011 04:31:01 GMT";until="Mon, 28 May 2012 17:38:29 GMT"

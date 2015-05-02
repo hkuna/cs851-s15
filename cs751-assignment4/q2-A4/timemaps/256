@@ -1,0 +1,5 @@
+<http://www.cuidadodesalud.gov/es/>;rel="original",
+ <http://timetravel.mementoweb.org/timegate/http://www.cuidadodesalud.gov/es/>;rel="timegate",
+ <http://labs.mementoweb.org/timemap/link/1/http://www.cuidadodesalud.gov/es/>;rel="timemap"; type="application/link-format"; from ="Sat, 22 Jun 2013 05:17:11 GMT";until="Wed, 10 Dec 2014 12:53:50 GMT",
+ <http://labs.mementoweb.org/timemap/link/1000/http://www.cuidadodesalud.gov/es/>;rel="timemap"; type="application/link-format"; from ="Wed, 10 Dec 2014 12:53:50 GMT",
+ <http://labs.mementoweb.org/timemap/link/http://www.cuidadodesalud.gov/es/>;rel="self"; type="application/link-format"; from ="Sat, 22 Jun 2013 05:17:11 GMT"
