@@ -7,11 +7,6 @@ title <- "CDF of Number of Mementos per URI"
 xlab <- "Number of Mementos"
 ylab <- "Probability"
 
-#pdf("memento_counts.pdf", height=4.0, width=4.5)
-
-#extend margin
-# default: c(5,4,4,2) + 0.1
-# bottom, left, top, right
 par(mar=c(4,4,2.5,2) + 0.1)
 
 set.seed(1)
